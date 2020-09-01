@@ -1,0 +1,16 @@
+{
+  "name": "tennis-game",
+  "version": "1.0.0",
+  "description": "Tennis Game Node Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "author": "Chris Ap",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.4.2",
+    "prompt": "^1.0.0",
+    "prompts": "^2.3.2"
+  }
+}
